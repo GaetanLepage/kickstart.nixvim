@@ -6,4 +6,6 @@
     ./keymaps.nix
     ./plugins
   ];
+
+  # TODO colorscheme
 }
