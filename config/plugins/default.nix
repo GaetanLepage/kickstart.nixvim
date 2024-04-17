@@ -1,4 +1,8 @@
 {
+  imports = [
+    ./telescope.nix
+  ];
+
   plugins = {
     # Detect tabstop and shiftwidth automatically
     sleuth.enable = true;
